@@ -1,0 +1,8 @@
+#data exploration
+#data cleaning 
+#generate y and x by slicing and dropping as appropriate
+#import train_test_split and use it to split data
+#Import and instantiate the LinearRegression class
+#train by fitting -> x_train and y_train
+#y_test_predicted -- > x_test
+#accuracy score
